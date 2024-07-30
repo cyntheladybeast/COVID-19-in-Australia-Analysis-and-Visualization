@@ -1,4 +1,4 @@
-This analysis and visualization of COVID-19 data aims to shed light on key aspects of the pandemic in Australia, from tracking a total of ten datasets pertaining to COVID-19 cases and deaths within five prominent Australian states, specifically referred to as 'New South Wales', 'Queensland,' 'South Australia,' 'Victoria,' and 'Western Australia.' 
+This analysis and visualization of COVID-19 data conducted using Python Notebook aims to shed light on key aspects of the pandemic in Australia, from tracking a total of ten datasets pertaining to COVID-19 cases and deaths within five prominent Australian states, specifically referred to as 'New South Wales', 'Queensland,' 'South Australia,' 'Victoria,' and 'Western Australia.' 
 These datasets contain information regarding the daily COVID-19 cases and fatality counts up to September 9, 2022.
 
 According the summary statistics pertaining to COVID-19 cases, deaths and recovery ratesacross five Australian states, the highest average case counts were observed in New SouthWales (NSW), while the highest average death counts were recorded in Victoria (VIC). 
